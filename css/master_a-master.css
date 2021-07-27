@@ -1,0 +1,148 @@
+#u318
+{
+	border-color: #000000;
+	position: fixed;
+	background: transparent url("../images/top_1.jpg") repeat-y left top;
+}
+
+#u319
+{
+	position: fixed;
+	background: transparent url("../images/cinvestav_seal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u320-4
+{
+	background-color: transparent;
+	color: #009997;
+	font-size: 20px;
+	line-height: 24px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: fixed;
+}
+
+#u320-2
+{
+	padding-top: 7px;
+}
+
+#u322
+{
+	position: fixed;
+	background: transparent url("../images/seeslogo.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u321
+{
+	position: fixed;
+	background: transparent url("../images/sin%20t%c3%adtulo-1.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u324
+{
+	border-style: solid;
+	border-color: #000000;
+	background-color: #002034;
+	position: fixed;
+	border-width: 1px 0px 2px;
+}
+
+#u325-2
+{
+	padding-top: 7px;
+}
+
+#u326-2
+{
+	padding-top: 7px;
+}
+
+#u327-2
+{
+	padding-top: 7px;
+}
+
+#u328-2
+{
+	padding-top: 7px;
+}
+
+#u329-2
+{
+	padding-top: 7px;
+}
+
+#u325-4,#u326-4,#u327-4,#u328-4,#u329-4,#u330-4
+{
+	border-color: #000000;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 10px;
+	text-align: center;
+	line-height: 12px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: fixed;
+}
+
+#u330-2
+{
+	padding-top: 7px;
+}
+
+#u314
+{
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	border-width: 1px 0px;
+	background: transparent url("../images/header_2.jpg") no-repeat left top;
+}
+
+#u316-4
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.2);
+	color: #000000;
+	font-size: 41px;
+	line-height: 49px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+	-pie-background: rgba(255,255,255,0.2);
+}
+
+#u316-2
+{
+	padding-left: 20px;
+	padding-top: 12px;
+}
+
+#u317-4
+{
+	background-color: transparent;
+	color: #1B1464;
+	font-size: 10px;
+	text-align: right;
+	line-height: 12px;
+	position: relative;
+}
+
+#u315
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: transparent url("../images/footer.jpg") no-repeat left top;
+}
+
+#u323-6
+{
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	position: relative;
+}
+

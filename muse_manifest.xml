@@ -1,0 +1,112 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="VLSI_1.com" resolutions="1x" timestamp="1439545450104">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="183031587" ref="investigacion:personal:untitled-14:galeria:untitled-15:contacto:untitled-13:index:progacad"/>
+    <file name="master_a-master-copy.css" crc="503226209" ref="research:faculty:gallery:contactus:gradprog:home"/>
+    <file name="research.css" crc="22727937" ref="research"/>
+    <file name="investigacion.css" crc="3807423516" ref="investigacion"/>
+    <file name="faculty.css" crc="22727937" ref="faculty"/>
+    <file name="personal.css" crc="127138478" ref="personal"/>
+    <file name="untitled-14.css" crc="171942789" ref="untitled-14"/>
+    <file name="gallery.css" crc="22727937" ref="gallery"/>
+    <file name="galeria.css" crc="4032577117" ref="galeria"/>
+    <file name="untitled-15.css" crc="349936365" ref="untitled-15"/>
+    <file name="contactus.css" crc="22727937" ref="contactus"/>
+    <file name="contacto.css" crc="456661457" ref="contacto"/>
+    <file name="untitled-13.css" crc="477068342" ref="untitled-13"/>
+    <file name="index.css" crc="523491865" ref="index"/>
+    <file name="gradprog.css" crc="22727937" ref="gradprog"/>
+    <file name="home.css" crc="73711650" ref="home"/>
+    <file name="progacad.css" crc="235770678" ref="progacad"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:home:progacad:investigacion:personal:galeria:contacto:gradprog:research:faculty:gallery:contactus:untitled-13:untitled-14:untitled-15"/>
+    <file name="museutils.js" crc="183364071" ref="index:home:progacad:investigacion:personal:galeria:contacto:gradprog:research:faculty:gallery:contactus:untitled-13:untitled-14:untitled-15"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:home:personal"/>
+    <file name="pie.js" crc="3827607177" ref="index:home"/>
+    <file name="webpro.js" crc="3803554875" ref="index:home:progacad:investigacion:personal:galeria:contacto"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:home:progacad:personal:galeria"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:home:progacad:personal:galeria"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:home:progacad:personal:galeria"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="index:home:investigacion:personal"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:home:progacad:investigacion:personal:galeria:contacto:gradprog:research:faculty:gallery:contactus:untitled-13:untitled-14:untitled-15"/>
+    <file name="form_check.php" crc="277267350" ref="contacto"/>
+    <file name="form_throttle.php" crc="3908387251" ref="contacto"/>
+    <file name="form_process.php" crc="24249335" ref="contacto"/>
+    <file name="form-u895.php" crc="280076760" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="top_1.jpg" crc="184927470" ref="index:home"/>
+    <file name="cinvestav_seal.png" crc="435236404" ref="index:home"/>
+    <file name="seeslogo.png" crc="306270469" ref="index:home"/>
+    <file name="sin título-1.png" crc="3939392133" ref="index:home"/>
+    <file name="header_2.jpg" crc="4087036772" ref="index:home"/>
+    <file name="integrated-circuit_00387008-u739-a-fr.jpg" crc="3945709063" ref="index:home"/>
+    <file name="20150708164355-9-u741-a-fr.jpg" crc="154865442" ref="index:home"/>
+    <file name="vonmises_3d_1-u740-a-fr.jpg" crc="20540098" ref="index:home"/>
+    <file name="integrated-circuit_00387008.jpg" crc="295952901" ref="index:home"/>
+    <file name="20150708164355-9.jpg" crc="167940182" ref="index:home"/>
+    <file name="vonmises_3d_1.jpg" crc="3986375732" ref="index:home"/>
+    <file name="footer.jpg" crc="514085502" ref="index:home"/>
+    <file name="road.jpg" crc="192148551" seo="true" ref="investigacion"/>
+    <file name="cactus.jpg" crc="4203301293" seo="true" ref="investigacion"/>
+    <file name="trees.jpg" crc="271198079" seo="true" ref="investigacion"/>
+    <file name="sin título.jpg" crc="89294113" ref="personal"/>
+    <file name="facebook.png" crc="228667642" ref="personal"/>
+    <file name="integrated-circuit_003870082.jpg" crc="4136978756" ref="personal"/>
+    <file name="4r.png" crc="3800931075" seo="true" ref="galeria"/>
+    <file name="blank.gif" crc="4208392903" ref="galeria"/>
+    <file name="acc_1.jpg" crc="334316909" seo="true" ref="galeria"/>
+    <file name="acelerometroqr4-crop-u1335.jpg" crc="343173746" ref="galeria"/>
+    <file name="autolim-crop-u1344.png" crc="371613922" ref="galeria"/>
+    <file name="beam-crop-u1353.png" crc="3764181534" ref="galeria"/>
+    <file name="bode.jpg" crc="18882643" seo="true" ref="galeria"/>
+    <file name="bulk_etch-crop-u1371.jpg" crc="3908157490" ref="galeria"/>
+    <file name="cantiliver-crop-u1380.png" crc="530576605" ref="galeria"/>
+    <file name="canti-shunt-crop-u1389.png" crc="4277259495" ref="galeria"/>
+    <file name="cap1-crop-u1398.jpg" crc="3966778291" ref="galeria"/>
+    <file name="cequi.jpg" crc="3854313346" seo="true" ref="galeria"/>
+    <file name="circuito equivalente-crop-u1416.png" crc="438297307" ref="galeria"/>
+    <file name="circuito equivalente_1-crop-u1425.png" crc="243604819" ref="galeria"/>
+    <file name="cmos-crop-u1434.jpg" crc="3886232081" ref="galeria"/>
+    <file name="cmos-fgmos-crop-u1443.png" crc="3838790301" ref="galeria"/>
+    <file name="cmoslayers.jpg" crc="3796575202" seo="true" ref="galeria"/>
+    <file name="cmosxst-crop-u1461.png" crc="481594050" ref="galeria"/>
+    <file name="4r61x35.png" crc="3927469035" seo="true" ref="galeria"/>
+    <file name="acc_153x36.jpg" crc="177849108" seo="true" ref="galeria"/>
+    <file name="acelerometroqr4-crop-u1338.jpg" crc="4065162919" ref="galeria"/>
+    <file name="autolim-crop-u1347.png" crc="3881113217" ref="galeria"/>
+    <file name="beam-crop-u1356.png" crc="4217224218" ref="galeria"/>
+    <file name="bode53x44.jpg" crc="219122822" seo="true" ref="galeria"/>
+    <file name="bulk_etch-crop-u1374.jpg" crc="14748399" ref="galeria"/>
+    <file name="cantiliver-crop-u1383.png" crc="3829783470" ref="galeria"/>
+    <file name="canti-shunt-crop-u1392.png" crc="466260427" ref="galeria"/>
+    <file name="cap1-crop-u1401.jpg" crc="466745225" ref="galeria"/>
+    <file name="circuito equivalente-crop-u1419.png" crc="128234971" ref="galeria"/>
+    <file name="circuito equivalente_1-crop-u1428.png" crc="184013588" ref="galeria"/>
+    <file name="cmos-crop-u1437.jpg" crc="4289279126" ref="galeria"/>
+    <file name="cmos-fgmos67x35.png" crc="490560056" seo="true" ref="galeria"/>
+    <file name="cmoslayers64x35.jpg" crc="474006771" seo="true" ref="galeria"/>
+    <file name="cmosxst-crop-u1464.png" crc="4020930826" ref="galeria"/>
+    <file name="loading.gif" crc="3815509949" ref="galeria"/>
+    <file name="u901-17.png" crc="4148707273" ref="contacto"/>
+    <file name="u901-17-r.png" crc="152355997" ref="contacto"/>
+    <file name="u901-17-m.png" crc="3929768203" ref="contacto"/>
+    <file name="u901-17-fs.png" crc="4258744511" ref="contacto"/>
+  </folder>
+  <file name="index.html" crc="113733738" seo="true" mt="1439545289128" redirect="true"/>
+  <file name="home.html" crc="449367470" seo="true" mt="1439528197558" redirect="true"/>
+  <file name="progacad.html" crc="3972630870" seo="true" mt="1439545289128" redirect="true"/>
+  <file name="investigacion.html" crc="3758821107" seo="true" mt="1439545385909" redirect="true"/>
+  <file name="personal.html" crc="367057001" seo="true" mt="1439545289128" redirect="true"/>
+  <file name="galeria.html" crc="4056083618" seo="true" mt="1439545407844" redirect="true"/>
+  <file name="contacto.html" crc="3873628542" seo="true" mt="1439545289128" redirect="true"/>
+  <file name="gradprog.html" crc="4015988854" seo="true" mt="1439527667136" redirect="true"/>
+  <file name="research.html" crc="264535355" seo="true" mt="1439527667136" redirect="true"/>
+  <file name="faculty.html" crc="3862477705" seo="true" mt="1439527667136" redirect="true"/>
+  <file name="gallery.html" crc="4018923912" seo="true" mt="1439527667136" redirect="true"/>
+  <file name="contactus.html" crc="24455257" seo="true" mt="1439527667136" redirect="true"/>
+  <file name="untitled-13.html" crc="4249072824" seo="true" mt="1439545289128" redirect="true"/>
+  <file name="untitled-14.html" crc="3889257898" seo="true" mt="1439545289128" redirect="true"/>
+  <file name="untitled-15.html" crc="4221028257" seo="true" mt="1439545289128" redirect="true"/>
+</manifest>
